@@ -98,7 +98,7 @@ dupeips = (ucbadips-badips)
 
 print ("\nFound and removed %s duplicate IP addresses \n") %dupeips
 
-print ('The are %s bad ip adresses in badactors.txt') % badips
+print ('The are %s bad ip addresses in badactors.txt') % badips
 
 os.remove("badactorsunclean.txt")
 os.system("open " + "badactors.txt")
