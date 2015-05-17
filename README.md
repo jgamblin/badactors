@@ -13,7 +13,7 @@ or
 python reallybadactors.py
 
 ##ScreenShot
-![Alt text](http://static.ow.ly/photos/original/aQPqr.png)
+![Alt text](http://40.media.tumblr.com/4a71ec0ce7c50b8bbac13744f63d96bb/tumblr_inline_nohy84LkjN1qf8s52_500.png)
 
 ##Important Notice
 I dont know what I am doing. It isnt perfect but it works. 
