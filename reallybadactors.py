@@ -47,7 +47,8 @@ urlss = ["http://rules.emergingthreats.net/blockrules/compromised-ips.txt",
          "http://malc0de.com/bl/IP_Blacklist.txt",
          "http://hosts-file.net/rss.asp",
          "https://feodotracker.abuse.ch/blocklist/?download=ipblocklist",
-         "http://reputation.alienvault.com/reputation.data"] 
+         "http://reputation.alienvault.com/reputation.data",
+         "http://www.binarydefense.com/banlist.txt"] 
 
 
 for urls in urlss:
