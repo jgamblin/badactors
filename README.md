@@ -1,7 +1,7 @@
 # badactors
-badactors.py will create a list of about 30,000 de-duplicated bad actors from public IP blacklist for your infosec needs. 
+badactors.py will create a list of about 51,000 de-duplicated bad actors from public IP blacklist for your infosec needs. 
 
-reallybadactors.py will create a list of about 200,000  de-duplicated bad actors from public IP blacklist for your big data infosec needs.
+reallybadactors.py will create a list of about 87,000 de-duplicated bad actors from public IP blacklist for your big data infosec needs.
 
 *(reallybadactors.py takes about 25 minutes to run. So...)*
 
