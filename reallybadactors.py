@@ -48,7 +48,8 @@ urlss = ["http://rules.emergingthreats.net/blockrules/compromised-ips.txt",
          "http://hosts-file.net/rss.asp",
          "https://feodotracker.abuse.ch/blocklist/?download=ipblocklist",
          "http://reputation.alienvault.com/reputation.data",
-         "http://www.binarydefense.com/banlist.txt"] 
+         "http://www.binarydefense.com/banlist.txt",
+         "http://www.talosintelligence.com/feeds/ip-filter.blf"] 
 
 
 for urls in urlss:
